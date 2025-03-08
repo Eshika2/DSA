@@ -1,4 +1,4 @@
-package CodingExercises.StringPalindrom;
+package CodingExercises.StringPalindrome;
 
 public class StringPalindrome2 {
     public static void main(String[] args) {
