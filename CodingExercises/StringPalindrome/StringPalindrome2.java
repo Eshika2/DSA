@@ -17,3 +17,4 @@ public class StringPalindrome2 {
 //Write a code to identify a palindrome
 //eg:
 //racecar
+//Do not use string builder
